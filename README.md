@@ -13,6 +13,6 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=EngChooN&show_icons=true&theme=chartreuse-dark" width=40%/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngChooN&layout=compact&theme=chartreuse-dark" width=45%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngChooN&layout=compact&theme=chartreuse-dark" width=43%/>
 </div>
 
