@@ -13,7 +13,7 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=EngChooN&show_icons=true&theme=chartreuse-dark" width=40%/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngChooN&layout=compact&theme=chartreuse-dark" width=44%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngChooN&layout=compact&theme=chartreuse-dark" width=60%/>
 </div>
   
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
