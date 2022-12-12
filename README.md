@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20EngChooN%20%20&height=200&fontSize=90&fontColor=ffffff)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20EngChooN%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 <div>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000080"/>
@@ -16,5 +16,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngChooN&layout=compact&theme=chartreuse-dark" width=44%/>
 </div>
   
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5) -->
 
